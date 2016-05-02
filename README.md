@@ -3,7 +3,7 @@ By: Edel Altares, Cody Fulford, Jeremy Lau, Sumeet Patel, Lukas Van Dyke
 
 
 ##### What is this?
-ShellChat is an instant messaging application we built from scratch in java. The server portion of the code ran on an Ubuntu virtual server, and the client could run on any machine with jre. The point of the project was to implement network features such as file transfer and handle multiple connections, so we didn't focus on ease of use.
+ShellChat is an instant messeging application we built from scratch in java. The server portion of the code ran on an Ubuntu virtual server, and the client could run on any machine with jre. The point of the project was to implement network features such as file transfer and handle multiple connections, so we didn't focus on ease of use.
 
 ##### Features:
 (ripped from the marking rubric) 
